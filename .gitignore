@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/HC_Final_ShotRace/[Tt]emp/
-/HC_Final_ShotRace/[Oo]bj/
-/HC_Final_ShotRace/[Bb]uild/
-/HC_Final_ShotRace/[Bb]uilds/
-/HC_Final_ShotRace/[Ll]ogs/
-/HC_Final_ShotRace/[Mm]emoryCaptures/
-/HC_Final_ShotRace/[Ll]ibrary/
+/VRGame/[Tt]emp/
+/VRGame/[Oo]bj/
+/VRGame/[Bb]uild/
+/VRGame/[Bb]uilds/
+/VRGame/[Ll]ogs/
+/VRGame/[Mm]emoryCaptures/
+/VRGame/[Ll]ibrary/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-!/HC_Final_ShotRace/[Aa]ssets/**/*.meta
+!/VRGame/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
