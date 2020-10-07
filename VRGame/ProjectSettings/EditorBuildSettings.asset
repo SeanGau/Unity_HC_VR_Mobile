@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR Horror Game.unity
+    guid: 4e8144eb4d541fb4cb1a2007461511a0
   m_configObjects: {}
